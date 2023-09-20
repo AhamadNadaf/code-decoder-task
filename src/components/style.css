@@ -1,0 +1,168 @@
+.goggle {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.vertical-line {
+    border: 1px solid;
+    width: 1px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* Chart One */
+
+.chartOne-div {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px;
+    width: 500px;
+    /* height: 600px; */
+}
+
+.chatone-sun-div-1-1 {
+    display: flex;
+    margin-right: 10px;
+}
+
+
+.chatone-sun-div-1-1-1 {
+    background-image: url('../assets/chart-1.jpg');
+    background-size: cover;
+    color:white;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+    margin: 5px 5px;
+    font-weight: 800;
+    padding: 10px 10px;
+    text-align: center;
+    width: 200px;
+    transition: 0.5s ease ;
+}
+
+.chatone-sun-div-1-1-1:hover{
+    transform: scale(1.09);
+}
+
+.chatone-sun-div-1-1-1-1{
+    background-image: url('../assets/chart-1.jpg');
+    /* background-size: cover; */
+    /* color:white; */
+    border: 1px solid white;
+    background-color: white;
+    color: white;
+    border-radius: 5px;
+    margin: 5px 5px;
+    font-weight: 800;
+    padding: 10px 10px;
+    text-align: center;
+    width: 200px;
+    transition: 0.5s ease;
+}
+
+.chatone-sun-div-1-1-1-1:hover{
+    transform: scale(1.09);
+}
+.chatone-sun-div-1-1-2 {
+    
+    /* border: 1px solid white; */
+    background-color: white;
+    border-radius: 10px;
+    /* border-radius: 5px; */
+    margin: 5px 5px;
+    height: 255px;
+    width: 200px;
+}
+
+.top-p {
+    font-size: 15px;
+    margin-left: 5px;
+    font-weight: 500;
+}
+
+.sub-top-p {
+    font-size: 11px;
+    margin-left: 5px;
+    margin-top: -10px;
+    color: rgb(178, 185, 190);
+}
+
+.chatone-right-div {
+    /* border: 1px solid white; */
+    margin-top: 5px;
+}
+
+.chatone-right-hr {
+    width: 450px;
+}
+
+
+.chatoen-dollar-1{
+    color: rgb(186, 216, 53);
+
+}
+.chatoen-dollar-2{
+    color: rgb(223, 61, 61);
+    
+}
+.chatone-ratio{
+    color: rgba(86, 219, 164, 0.849);
+}
+
+.chatoen-dollar-2,.chatoen-dollar-1{
+    font-weight: 500;
+    font-size:xx-large;
+    
+}
+
+.level-chart-1{
+margin-top: 37px;
+}
+
+/* chart two */
+
+.chart-two {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 10px;
+    width: 700px;
+}
+
+.chartTwo-left {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.chartTwo-hr {
+    width: 500px;
+}
+
+/* .outrt-circle{
+    width: 100px;chartOne-div
+    height: 100px;
+    border: 1px solid white;
+    background-color: aqua;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-circel{
+    width: 70px;
+    height: 70px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 100px;
+}
+
+.circle-span{
+    background-color: red;
+    margin-right: 10px;
+    
+} */
